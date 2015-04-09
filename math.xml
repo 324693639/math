@@ -13,7 +13,7 @@
           </block>
         </value>
         <next>
-          <block type="oled_drawtext" id="41">
+          <block type="oled_drawtext" id="41" disabled="true">
             <field name="TEXT">98484827*(56732636*1768273)=</field>
             <next>
               <block type="oled_drawnumber" id="57" inline="true">
